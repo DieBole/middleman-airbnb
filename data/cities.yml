@@ -1,0 +1,6 @@
+- name: 'London'
+  picture: 'https://kitt.lewagon.com/placeholder/cities/london'
+- name: 'Lisbon'
+  picture: 'https://kitt.lewagon.com/placeholder/cities/lisbon'
+- name: 'Berlin'
+  picture: 'https://kitt.lewagon.com/placeholder/cities/berlin'
