@@ -1,0 +1,21 @@
+diebole:
+  name: "Diego's home"
+  description: "Great flat in Buenos Aires"
+  city_name: "Buenos Aires, Argentina"
+  city_slug: "buenos-aires"
+  wifi: true
+  rating: 4
+Legeron:
+  name: "Flo' home"
+  description: "Small flat in Bodeaux"
+  city_name: "Bordeaux, France"
+  city_slug: "bordeaux"
+  wifi: true
+  rating: 5
+MeunierIngrid:
+  name: "Ingrid's Place"
+  description: "Nice flat in Marseille"
+  city_name: "Marseille, France"
+  city_slug: "marseille"
+  wifi: false
+  rating: 4
